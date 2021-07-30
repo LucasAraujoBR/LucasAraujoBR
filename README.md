@@ -1,14 +1,16 @@
 ### <h1>Bem-vindo(a) 🦸🏽‍♂️🦸🏽‍</h1>
-
-- 🖥 Hoje trabalho como analista de projetos na <a href="https://seedabit.org.br/">Seed a Bit tecnologia</a>
-- 👾 Estudando <a href="https://github.com/LucasAraujoBR/HTML_CSS_JS">HTML | CSS | JS</a>
-
-
+<br>
 <div>
-    <a href="https://github.com/LucasAraujoBR">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAraujoBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAraujoBR&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ <a href = "mailto:lucasaraujoti73@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-9a80a419a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+<br>
+- 🖥 Analista de projetos na <a href="https://seedabit.org.br/">Seed a Bit tecnologia</a> <br>
+- 👾 Estudando <a href="https://github.com/LucasAraujoBR/HTML_CSS_JS">HTML | CSS | JS</a> <br>
+- 🏜  Recife-PE
+   
+
+<br>
  <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -26,8 +28,11 @@
 </div>
 <br>
 <div>
- <a href = "mailto:lucasaraujoti73@gmail.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-9a80a419a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+    <a href="https://github.com/LucasAraujoBR">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAraujoBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAraujoBR&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
   
   
