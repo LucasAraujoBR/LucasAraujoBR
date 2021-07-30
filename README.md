@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/lucas-ara%C3%BAjo-9a80a419a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 <br>
+- 🎓 Bacharelado em Ciência da Computação na <a href="http://www.ufrpe.br/br/content/bacharelado-em-ci%C3%AAncia-da-computa%C3%A7%C3%A3o">UFRPE</a> <br>
 - 🖥 Analista de projetos na <a href="https://seedabit.org.br/">Seed a Bit tecnologia</a> <br>
 - 👾 Estudando <a href="https://github.com/LucasAraujoBR/HTML_CSS_JS">HTML | CSS | JS</a> <br>
 - 🏜  Recife-PE
