@@ -1,4 +1,4 @@
-### Bem-vindo(a) 🦸🏽‍♂️🦸🏽‍♀️
+### <h1>Bem-vindo(a) 🦸🏽‍♂️🦸🏽‍</h1>
 
 - 🖥 Hoje trabalho como analista de projetos na <a href="https://seedabit.org.br/">Seed a Bit tecnologia</a>
 - 👾 Estudando <a href="https://github.com/LucasAraujoBR/HTML_CSS_JS">HTML | CSS | JS</a>
