@@ -7,7 +7,6 @@
 <br>
 - 🎓 Bacharelado em Ciência da Computação na <a href="http://www.ufrpe.br/br/content/bacharelado-em-ci%C3%AAncia-da-computa%C3%A7%C3%A3o">UFRPE</a> <br>
 - 👨🏽‍💻 Técnico em Desenvolvimento de Sistemas pela <a href="https://www.instagram.com/etemiguelbatista/">ETEMB</a> <br>
-- 🖥 Analista de projetos na <a href="https://seedabit.org.br/">Seed a Bit tecnologia</a> <br>
 - 👾 Estudando <a href="https://github.com/LucasAraujoBR/HTML_CSS_JS">Javascript/Typescript</a> <br>
 - 🏜  Recife-PE
    
