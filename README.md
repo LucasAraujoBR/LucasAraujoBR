@@ -7,7 +7,7 @@
 <br>
 - 🎓 Bacharelado em Ciência da Computação na <a href="http://www.ufrpe.br/br/content/bacharelado-em-ci%C3%AAncia-da-computa%C3%A7%C3%A3o">UFRPE</a> <br>
 - 👨🏽‍💻 Técnico em Desenvolvimento de Sistemas pela <a href="https://www.instagram.com/etemiguelbatista/">ETEMB</a> <br>
-- 👾 Estudando <a href="https://github.com/LucasAraujoBR/Python-Language">Data Science</a> <br>
+- 👾 Estudando <a href="https://github.com/LucasAraujoBR/Python-Language">Django</a> <br>
 - 🏜  Recife-PE
    
 
